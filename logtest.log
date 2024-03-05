@@ -11,3 +11,12 @@ total 2792
 -rw-r--r-- 1 muhammad muhammad    4495 Feb 20 19:23 log_1.log
 -rw-r--r-- 1 muhammad muhammad  214487 Feb 20 19:23 oslogs.log
 -rw-r--r-- 1 muhammad muhammad 2380789 Feb 20 19:23 webserver.log
+History of BR_IMAGES branch:
+* 31573e0 (HEAD -> BR_IMAGES, master, BR_TEXT) add folder.tar.gz and update logtest.log
+* 1a9af17 Create and Add date to logtest.log
+History of BR_TEXT branch:
+* 31573e0 (HEAD -> BR_TEXT, master, BR_IMAGES) add folder.tar.gz and update logtest.log
+* 1a9af17 Create and Add date to logtest.log
+History of master branch:
+* 31573e0 (HEAD -> master, BR_TEXT, BR_IMAGES) add folder.tar.gz and update logtest.log
+* 1a9af17 Create and Add date to logtest.log
