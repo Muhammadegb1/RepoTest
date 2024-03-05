@@ -1,1 +1,13 @@
 2024-03-05 23:46:51.341649373 - RepoTest
+2024-03-05 23:46:51.341649373 - https://github.com/Telhai-Git/LinuxFiles/archive/refs/tags/Data.tar.gz
+folders in the extracted folder:
+total 2792
+-rw-r--r-- 1 muhammad muhammad      77 Feb 20 19:23 file_1.txt
+-rw-r--r-- 1 muhammad muhammad      58 Feb 20 19:23 file_2.txt
+-rw-r--r-- 1 muhammad muhammad   48395 Feb 20 19:23 linux1.jpg
+-rw-r--r-- 1 muhammad muhammad  128514 Feb 20 19:23 linux2.jpg
+-rw-r--r-- 1 muhammad muhammad    6808 Feb 20 19:23 linux3.png
+-rw-r--r-- 1 muhammad muhammad   49815 Feb 20 19:23 linux4.jpg
+-rw-r--r-- 1 muhammad muhammad    4495 Feb 20 19:23 log_1.log
+-rw-r--r-- 1 muhammad muhammad  214487 Feb 20 19:23 oslogs.log
+-rw-r--r-- 1 muhammad muhammad 2380789 Feb 20 19:23 webserver.log
